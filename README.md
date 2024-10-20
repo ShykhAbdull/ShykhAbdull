@@ -15,9 +15,9 @@
 
 - 💬 Ask me about ** Android / HTML / CSS / ReactJs / Laravel / DSA/ C++ / Wordpress / Shopify **
 
-- 📫 Reach me @ **mynameisshaikh20@gmail.com**
+- 📫 Reach me @ <a href = "https://mail.google.com/mail/u/0/?fs=1&to=mynameisshaikh20@gmail.com&su=Job+Application&body=Dear+Abdull+Rehman,%0D%0A%0D%0AI&tf=cm"> mynameisshaikh20@gmail.com  </a>
 
-- 📄 Have look at the Resume / CV  [https://drive.google.com/file/d/1H5Qs03-s_ALHb67OPV85W05wiPS65CVM/view?usp=sharing](https://drive.google.com/file/d/1H5Qs03-s_ALHb67OPV85W05wiPS65CVM/view?usp=sharing)
+- 📄 Have look at the <a href = "https://drive.google.com/file/d/1H5Qs03-s_ALHb67OPV85W05wiPS65CVM/view?usp=sharing"> Resume / CV  </a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
